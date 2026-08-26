@@ -25,11 +25,6 @@ Project Report: A concise 3-page PDF outlining:
   * Model Architecture Diagram and hyperparameter choices.
   * Evaluation Metrics (Loss/Accuracy curves, Confusion Matrix, and F1-Score).
 
-  ## Student Submission
-
-### Google Colab Notebook
-
-## Student Submission
 
 ### Google Colab Notebook
 
